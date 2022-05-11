@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T20:14:09 IST" name="Default suite" finished-at="2022-05-05T20:14:23 IST" duration-ms="14315">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T20:14:09 IST" name="Default test" finished-at="2022-05-05T20:14:23 IST" duration-ms="14315">
+      <class name="Module1_Donor_Mgnt_Test.Donor_TESTCASE">
+        <test-method is-config="true" signature="open()[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8]" started-at="2022-05-05T20:14:09 IST" name="open" finished-at="2022-05-05T20:14:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8]" started-at="2022-05-05T20:14:09 IST" name="OpenBrowser" finished-at="2022-05-05T20:14:16 IST" duration-ms="7104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="FillInfo()[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8]" started-at="2022-05-05T20:14:16 IST" name="FillInfo" finished-at="2022-05-05T20:14:18 IST" duration-ms="2019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillInfo -->
+        <test-method is-config="true" signature="logoutBrowser(org.testng.ITestResult)[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8]" started-at="2022-05-05T20:14:18 IST" name="logoutBrowser" finished-at="2022-05-05T20:14:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FillInfo status=SUCCESS method=Donor_TESTCASE.FillInfo()[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Module1_Donor_Mgnt_Test.Donor_TESTCASE@4145bad8]" started-at="2022-05-05T20:14:18 IST" name="closeBrowser" finished-at="2022-05-05T20:14:23 IST" duration-ms="5144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Module1_Donor_Mgnt_Test.Donor_TESTCASE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
